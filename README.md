@@ -5,6 +5,13 @@ available on the [wiki-source][1] website,
 
 [1]: https://en.wikisource.org/
 
+### Alice’s Adventures in Wonderland, by Lewis Carroll
+
+Read online:
+[fr-en](https://fccm2.github.io/bilingual-literature/Lewis_Carroll/Alice_s_Adventures_in_Wonderland/Alice_s_Adventures_in_Wonderland-fr-en-00.html) ;
+[fr-de](https://fccm2.github.io/bilingual-literature/Lewis_Carroll/Alice_s_Adventures_in_Wonderland/Alice_s_Adventures_in_Wonderland-fr-de-00.html) ;
+[en-de](https://fccm2.github.io/bilingual-literature/Lewis_Carroll/Alice_s_Adventures_in_Wonderland/Alice_s_Adventures_in_Wonderland-en-de-00.html)
+
 ### War and Peace, by Leo Tolstoy
 
 Read online:
@@ -21,5 +28,4 @@ Read online:
 Read online:
 [en-pl](https://fccm2.github.io/bilingual-literature/Rudyard_Kipling/The_Jungle_Book/en-pl/The_Jungle_Book-00.html) ;
 [fr-pl](https://fccm2.github.io/bilingual-literature/Rudyard_Kipling/The_Jungle_Book/fr-pl/The_Jungle_Book-00.html) ;
-
 
